@@ -1,1 +1,3 @@
 Je suis fichier4
+J'ai été modifié, tout à l'heure
+Je suis un nouveau contenu
